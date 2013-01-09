@@ -13,6 +13,5 @@
 
 @property (nonatomic) IBOutlet UIWindow *window;
 @property (nonatomic) IBOutlet iPhoneHTTPServerViewController *viewController;
--(void) start;
 @end
 
